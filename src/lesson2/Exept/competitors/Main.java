@@ -3,7 +3,7 @@ package lesson2.Exept.competitors;
 public class Main {
 
     public static void main(String[] args) {
-
+// создание массива
         String[][] arr = new String[][]{{"1", "2", "3", "4"}, {"2", "2", "2", "3"}, {"1", "2", "2", "2"}, {"2", "2", "2", "2"}};
         try {
             try {
