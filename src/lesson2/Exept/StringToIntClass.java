@@ -1,4 +1,4 @@
-package lesson2.Exept.competitors;
+package lesson2.Exept;
 
 
 
